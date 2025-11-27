@@ -35,6 +35,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.play.services.wearable)
+    implementation("androidx.wear.watchface:watchface:1.2.1")
 }
