@@ -16,7 +16,7 @@
 plugins {
     alias(libs.plugins.android.application)
     // Use the locally-defined validator to demonstrate validation on-build.
-    id("com.google.wff.validatorplugin")
+//    id("com.google.wff.validatorplugin")
 }
 
 android {
